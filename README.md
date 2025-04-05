@@ -1,6 +1,6 @@
 <h1>Hersafe Haven</h1>
 
- ### [Slide show](https://www.canva.com/design/DAGhEaS3Cmg/w5819z9QEMhpvL88fn1kVg/edit?utm_content=DAGhEaS3Cmg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+ ### [Presentation](https://www.canva.com/design/DAGhEaS3Cmg/w5819z9QEMhpvL88fn1kVg/edit?utm_content=DAGhEaS3Cmg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 <h2>Description</h2>
 An AI-powered mobile app designed to provide 24/7 mental health support and mentorship to youth, featuring a chatbot, human mentor access, and an emergency SOS button. The app aims to make emotional support accessible, safe, and immediate for all users.
